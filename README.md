@@ -28,6 +28,3 @@ streamlit run gui/app.py
 ```
 
 ---
-
-## Submission
-Includes source code, GUI and report.pdf
